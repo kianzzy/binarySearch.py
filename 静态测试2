@@ -1,7 +1,7 @@
 import unittest
 
 
-def binary_search(arr, x):
+def binary_sear(arr, x):
     low = 0
     high = len(arr) - 1
     mid = 0
